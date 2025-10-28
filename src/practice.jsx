@@ -16,7 +16,7 @@ import cabinet from "./assets/cabinet.webp";
 import chair from "./assets/chair.jpg";
 import dining from "./assets/dining.webp";
 import dressing from "./assets/dressing.jpeg";
-import foldbed from "./assets/foldbed.webp";
+import foldbed from "./assets/foldBed.webp";
 import office from "./assets/office.jpeg";
 import sofa from "./assets/sofa.webp";
 import tv from "./assets/tv.webp";
